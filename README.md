@@ -13,13 +13,13 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=424242">&nbsp;
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black">&nbsp;
   <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=for-the-badge&logo=Tailwind CSS&logoColor=white">
-  <a href="https://mui.com/" rel="noopener" target="_blank"><img width="150" src="" alt="MUI logo"></a>
+  <a href="https://mui.com/" rel="noopener" target="_blank"><img height="50" img width="50" src="https://github.com/SarbajitNeogi/SpotifyCloneusingReactjs/blob/main/public/logo.svg" alt="MUI logo"></a>
 
 - Back-End
   <br>
 
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">&nbsp;
-  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=Solidity&logoColor=white">&nbsp;
+<!--   <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=Solidity&logoColor=white">&nbsp; -->
   <img width='50px' img height='50px' src="https://images.opencollective.com/spotify/f37ea28/logo/192.png">
 
 - Deploy
@@ -44,7 +44,7 @@
 
 <br><br>
 
-# 2. Project Details
+<!-- # 2. Project Details
 
 <div align='center'>
 
@@ -95,3 +95,4 @@
 | <img src="./client/src/assets/gif/mobileMain.gif">&nbsp;&nbsp;&nbsp;&nbsp;<img src="./client/src/assets/gif/mobileCreateCampaign.gif"> |
 
 </div>
+ -->
