@@ -1,71 +1,95 @@
-# Getting Started with Create React App
+# Spotify Clone Web app
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<div align='center'>
 
-## Available Scripts
+<img width='50%' margin='100px' src="./public/spotify.PNG">
+<img width='50%' margin='100px' src="./public/spotify2.PNG"> 
+<br>
+# 1. Tech
 
-In the project directory, you can run:
+- Front-End
+  <br>
 
-### `npm start`
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=424242">&nbsp;
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black">&nbsp;
+  <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=for-the-badge&logo=Tailwind CSS&logoColor=white">
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- Back-End
+  <br>
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">&nbsp;
+  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=Solidity&logoColor=white">&nbsp;
+  <img width='145px' src="./client/src/assets/thirdwebname.png">
 
-### `npm test`
+- Deploy
+  <br>
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=Vercel&logoColor=white">&nbsp;
+  <img width='145px' src="./client/src/assets/thirdwebname.png">
 
-### `npm run build`
+- Edit Tool
+  <br>
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white">&nbsp;
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">&nbsp;
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white">
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+- Used Cryptocurrency | Wallet
+  <br>
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+  <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white">&nbsp;
+  <img width='145px' src="./client/src/assets/metamaskLogo.png">
 
-### `npm run eject`
+<br><br>
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+# 2. 프로젝트 상세 내용
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+<div align='center'>
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+| Main (Not connected)                                       |
+| ---------------------------------------------------------- |
+| <img src="./client/src/assets/gif/pcMainNotConnected.gif"> |
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+<br>
 
-## Learn More
+| Connect Account                                   |
+| ------------------------------------------------- |
+| <img src="./client/src/assets/gif/pcConnect.gif"> |
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+<br>
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+| Create Campaign                                          |
+| -------------------------------------------------------- |
+| <img src="./client/src/assets/gif/pcCreateCampaign.gif"> |
 
-### Code Splitting
+<br>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+| My Campaign / Campaign Detail                              |
+| ---------------------------------------------------------- |
+| <img src="./client/src/assets/gif/pcMyCampaignDetail.gif"> |
 
-### Analyzing the Bundle Size
+<br>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+| Donate                                           |
+| ------------------------------------------------ |
+| <img src="./client/src/assets/gif/pcDonate.gif"> |
 
-### Making a Progressive Web App
+<br>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+| Main (Tablet)                                   |
+| ----------------------------------------------- |
+| <img src="./client/src/assets/gif/tabMain.gif"> |
 
-### Advanced Configuration
+<br>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+| Create Campaign (Tablet)                                  |
+| --------------------------------------------------------- |
+| <img src="./client/src/assets/gif/tabCreateCampaign.gif"> |
 
-### Deployment
+<br>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+| Main (Mobile) / Create Campaign (Mobile)                                                                                               |
+| -------------------------------------------------------------------------------------------------------------------------------------- |
+| <img src="./client/src/assets/gif/mobileMain.gif">&nbsp;&nbsp;&nbsp;&nbsp;<img src="./client/src/assets/gif/mobileCreateCampaign.gif"> |
 
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-# SpotifyCloneusingReactjs
+</div>
