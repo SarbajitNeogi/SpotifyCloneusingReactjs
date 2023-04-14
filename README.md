@@ -19,8 +19,9 @@
   <br>
 
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">&nbsp;
+   <img width='50px' img height='50px' src="https://images.opencollective.com/spotify/f37ea28/logo/192.png">
 <!--   <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=Solidity&logoColor=white">&nbsp; -->
-  <img width='50px' img height='50px' src="https://images.opencollective.com/spotify/f37ea28/logo/192.png">
+ 
 
 - Deploy
   <br>
