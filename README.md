@@ -19,13 +19,14 @@
 
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">&nbsp;
   <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=Solidity&logoColor=white">&nbsp;
-  <img width='145px' src="./client/src/assets/thirdwebname.png">
+  <img width='50px' img height='50px' src="https://images.opencollective.com/spotify/f37ea28/logo/192.png">
 
 - Deploy
   <br>
 
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=Vercel&logoColor=white">&nbsp;
-  <img width='145px' src="./client/src/assets/thirdwebname.png">
+  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white">&nbsp;
+<!--   <img width='145px' src="./client/src/assets/thirdwebname.png"> -->
 
 - Edit Tool
   <br>
@@ -34,15 +35,15 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">&nbsp;
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white">
 
-- Used Cryptocurrency | Wallet
+<!-- - Used Cryptocurrency | Wallet
   <br>
 
   <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white">&nbsp;
-  <img width='145px' src="./client/src/assets/metamaskLogo.png">
+  <img width='145px' src="./client/src/assets/metamaskLogo.png"> -->
 
 <br><br>
 
-# 2. 프로젝트 상세 내용
+# 2. Project Details
 
 <div align='center'>
 
